@@ -10,7 +10,7 @@ Come into my website:
 
 
 <div style="display:flex">
- <img src='https://github-readme-stats.vercel.app/api?username=leo314159&show_icons=true&&theme=dark=nord' height=150 margin=10 align="left" />
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=leo314159' height=150 margin=10 align="right"/>
+ <img src='https://github-readme-stats.vercel.app/api?username=leo314159&show_icons=true&&theme=dark=nord' height=150 width=45% align="left" />
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=leo314159' height=150 width=45% align="right"/>
  </div>
  
