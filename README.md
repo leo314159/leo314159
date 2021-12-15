@@ -11,11 +11,11 @@ Come into my website:
  
 **About me**
 
-- 💼 FrontEnd Beginner 
+- 💼 a FrontEnd Beginner 
 
-- 📈 Interested Deep Learning
+- 📈 Interested in Deep Learning
 
-- 📚 Major related GNSS
+- 📚 Majored in GNSS
 
 - ❤️ I love Math and Algorithm
 
